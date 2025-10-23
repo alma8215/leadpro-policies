@@ -4,10 +4,10 @@ Sitio web oficial de **LeadPro**, una plataforma SaaS para gestión integral de 
 
 ## 🌐 Sitio Web En Vivo
 
-- **Página Principal**: [https://alma8215.github.io/leadpro-website/](https://alma8215.github.io/leadpro-website/)
-- **Política de Privacidad**: [privacy-policy.html](https://alma8215.github.io/leadpro-website/privacy-policy.html)
-- **Términos de Servicio**: [terms-of-service.html](https://alma8215.github.io/leadpro-website/terms-of-service.html)
-- **Eliminación de Datos**: [data-deletion.html](https://alma8215.github.io/leadpro-website/data-deletion.html)
+- **Página Principal**: [https://alma8215.github.io/leadpro-policies/](https://alma8215.github.io/leadpro-policies/)
+- **Política de Privacidad**: [privacy-policy.html](https://alma8215.github.io/leadpro-policies/privacy-policy.html)
+- **Términos de Servicio**: [terms-of-service.html](https://alma8215.github.io/leadpro-policies/terms-of-service.html)
+- **Eliminación de Datos**: [data-deletion.html](https://alma8215.github.io/leadpro-policies/data-deletion.html)
 
 ## 📋 Contenido
 
