@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: LeadPro
+description: Plataforma SaaS para Gestión Integral de Leads
+url: https://alma8215.github.io/leadpro-policies
+baseurl: /leadpro-policies
+markdown: kramdown
